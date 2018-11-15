@@ -1,0 +1,4 @@
+&inputdata
+  nn=5
+  outfile='ho.dat'
+/
